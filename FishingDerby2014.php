@@ -28,7 +28,7 @@ div#content2 {
     border: solid #930; 
     border-width: 1px;
     width: 839px;
-    height: 910px;
+    height: 925px;
 }
 div# p {text-align:right; margin: 0 1em 1em; vertical-align:bottom;}
 div#content h3 {margin-bottom: 0.25em;text-transform: lowercase;text-align: left; }
@@ -99,7 +99,7 @@ li {class:style1;}
         <li>All derby entrants age 14 and up must hold a valid IDF&amp;G Fishing licence.</li>
         <li>Good sportamanship, Responsible Boating and Safety <b>Must Be Followed at ALL times.</b></li>
         <li>RCVFD and it's volunteers accept no responsibilities for loss, or harm to any boat, vehicle, equipment, contestant, passenger or observer during this event. The Derby ticket purchaser agrees to hold harmless all derby Presenters, Volunteers, Sponsors and or Agents from any or all liability in connection with this derby.</li>
-        <li>You may register ahead of time online, or on the day of event at the docks.  Online registration will close 3 days before the event at midnight</li>
+        <li>You may register ahead of time online, or on the day of event at the docks.  Online registration has been extended!  It will now close the night before the event at 6pm</li>
        </ul>
       <p>
        
