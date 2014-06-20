@@ -1,0 +1,5 @@
+body {background: #F7F2EE url(mesa.jpg) 0 0  repeat fixed;}
+div#content {background: transparent url(mesa.jpg) 0 0 repeat fixed;}
+div#links {background: transparent url(mesa.jpg) 0 0 repeat fixed;}
+div#links a:hover {background: transparent url(rcreekfade.jpg) 0 0 repeat fixed;}
+div#content2 {background: #666 url(mesafade.jpg) 0 0 repeat fixed;}
