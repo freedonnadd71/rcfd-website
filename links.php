@@ -2,7 +2,7 @@
 			"http://www.w3.org/TR/REC-html40/strict.dtd">
 <html>
 <head>
-<title>Usefull Information</title>
+<title>Useful Information</title>
 <link rel="stylesheet" title="main (Default)" href="main2.css" type="text/css" media="screen">
 <style type="text/css">
 body {position: relative; margin: 0; padding: 0;}
@@ -70,14 +70,15 @@ code, pre {color: #EDC; font: 110% monospace; }
   <a href="subscription.php" title="Pay Your Subscription" target="_top">Pay Your Annual Subscription</a>
 </div>
 <div id="content2">
-<h3> <span class="style1">Usefull Links</span> </h3>
+<h3> <span class="style1">Useful Links</span> </h3>
 <p>
 <span class="style1"><a href="http://www.idahoforests.org/fire_links.htm" title="Link to Idaho Forest Fires" target="_blank">Forest Fires In Idaho</a><br>
-<a href="http://www.firewise.org/" title="Frewise site" target="_blank">Firewise.org</a><br>
-<a href="http://burnpermits.idaho.gov/Home.aspx" title="Idaho Burn Permits Site" target="_blank">Apply for a burn permit<br>
-<a href="http://Burnpermits.idaho.gov/Documents/Brochure-Burn-Permits.pdf" target="_new">Idaho Burn Permit Brochure</a>
-</a>
-
+<a href="http://www.firewise.org/" title="Frewise site" target="_blank">Firewise.org</a><br><br>
+<a href="http://burnpermits.idaho.gov/Home.aspx" title="Idaho Burn Permits Site" target="_blank">Apply for a burn permit<br><br/>
+<a href="http://Burnpermits.idaho.gov/Documents/Brochure-Burn-Permits.pdf" target="_new">Idaho Burn Permit Brochure</a><br/><br/>
+<a href="https://nextdoor.com/invite/hrmgcggdftjuandkqzzk" target="_new">Next Door Community Site (Robie Creek Area)</a><br/><br/>
+<a href="http://www.boisecounty.us/Department/719/Fire_Information.aspx" target="_new">Boise County Fire Information</a><br/><br/>
+<a href="http://www.boisecounty.us/Sheriff.aspx" target="_new">Boise County Sheriff CODERED Registration Page</a><br/><br/>
 </span> 
 </p>
 </div>
